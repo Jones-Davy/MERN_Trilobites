@@ -1,0 +1,64 @@
+/* Home */
+#home {
+  background: rgb(109, 145, 13);
+  background: linear-gradient(90deg, #4f6b15 50%, 	#008000 100%);
+  min-height: 500px;
+}
+
+
+.navbar {
+  background-color: rgb(124, 173, 10);
+}
+/* Two buttons in Home */
+.xx {
+  position: relative;
+  bottom: 10px;
+}
+
+#login, #regist {
+  background-color: green;
+}
+
+.about {
+  background-color: rgb(156, 137, 27);
+}
+
+#service {
+  background-color: rgb(204, 184, 72);
+}
+
+#contact {
+  background-color: rgb(243, 225, 123);
+}
+
+
+
+
+/* Cards */
+.card {
+  transition: all 0.5s ease;
+  min-height: 520px;
+}
+
+
+.card:hover{
+  cursor: pointer;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.15)
+}
+
+.xxx {
+  min-height: 628px;
+}
+
+/* Footer */
+
+.footer {
+  background: rgb(9, 85, 9);
+  background: linear-gradient(90deg, rgb(9, 124, 36) 40%, rgb(7, 109, 7) 100%);
+}
+
+/* Form */
+.form {
+  background: rgb(0,101,219);
+  background: linear-gradient(90deg, rgb(0, 101, 219) 30% rgba(0, 212, 255, 1)100%);
+}
