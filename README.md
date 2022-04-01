@@ -1,3 +1,3 @@
-![alt text](fron-React/public/assets/front__screen.png)
+![alt text](front-React/public/assets/front__screen.png)
 
 # Trilobites__MERN
